@@ -97,7 +97,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: rgb(31, 30, 30);
+	background-color: (31, 30, 30);
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
@@ -129,7 +129,7 @@ p {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%) scale(0);
-	color: rgba(240, 248, 255, 0.021);
+	color: #293c2b;
 	font-size: 13rem;
 	letter-spacing: 50px;
 	z-index: -1;
@@ -213,7 +213,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: black;
+	background-color: #293c2b;
 	opacity: 0.3;
 	z-index: -1;
 }
