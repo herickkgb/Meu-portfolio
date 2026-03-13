@@ -876,6 +876,24 @@ img {
   margin-top: 8px;
 }
 
+.credential-link {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 6px 16px;
+  background-color: var(--accent);
+  color: #0d1117;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: var(--font-sans);
+  transition: all 0.25s ease;
+}
+
+.credential-link:hover {
+  background-color: #e08510;
+  box-shadow: 0 4px 12px rgba(248, 152, 32, 0.35);
+}
+
 /* ===========================
    Contact Section
 =========================== */

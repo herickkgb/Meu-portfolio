@@ -1,4 +1,5 @@
-# Portfolio MOBILE 
-Bem-vindo ao meu portfolio online! Este repositório contém o código-fonte e informações relacionadas ao meu site pessoal, onde compartilho e destaco alguns dos projetos em que tenho trabalhado. Este é um espaço dedicado para apresentar minha experiência, habilidades e conquistas profissionai
+# Herick Alves | Java Backend Developer
 
-[![Click](https://www.ilhacomprida.sp.leg.br/imagens/sitecmic/CliqueAqui.png)](https://herickkgb.github.io/Meu-portfolio/)
+Portfólio profissional com minha experiência, stack tecnológica e trajetória como Desenvolvedor Java Backend.
+
+[![Acesse o Portfólio](https://img.shields.io/badge/Acessar_Portf%C3%B3lio-F89820?style=for-the-badge&logo=java&logoColor=white)](https://herickkgb.github.io/Meu-portfolio/)
